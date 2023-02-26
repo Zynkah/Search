@@ -1,4 +1,5 @@
 def seq_search(number_list, n):
+    # searches if the number is in the list
     found = False
     for i in number_list:
         if i == n:
