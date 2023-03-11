@@ -10,6 +10,6 @@ def seq_search(number_list, n):
 
 numbers = range(0, 100)
 s1 = seq_search(numbers, 2)
-print(s1)
+print(s1) # True
 s2 = seq_search(numbers, 202)
-print(s2)
+print(s2) # False
